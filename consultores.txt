@@ -1,0 +1,6 @@
+---Empleado---
+DNI: 03
+Nombre: Juan
+DescripciónJefe de sección
+Sueldo bruto: 2600.0
+Categoría profesional: A

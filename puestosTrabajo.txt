@@ -1,0 +1,24 @@
+---Empleado---
+DNI: 01
+Nombre: Paco
+DescripciónAuxiliar
+Sueldo bruto: 1200.0
+Antiguedad: 1
+---Empleado---
+DNI: 02
+Nombre: Sonia
+DescripciónJefe de sección
+Sueldo bruto: 2800.0
+Antiguedad: 8
+---Empleado---
+DNI: 03
+Nombre: Juan
+DescripciónJefe de sección
+Sueldo bruto: 2600.0
+Categoría profesional: A
+---Empleado---
+DNI: 04
+Nombre: Maria
+DescripciónAuxiliar
+Sueldo bruto: 1100.0
+Categoría profesional: C
